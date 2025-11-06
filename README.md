@@ -41,7 +41,7 @@ DRY_RUNモードでの模擬取引を標準搭載（実運用はAPIキー設定�
 ノイズの多い相場環境でも確度の高いトレンド転換を捉えることを目的としています。  
 リアルタイム模擬取引（DRY_RUN）により、バックテストなしで即時検証が可能です。
 
-=====================================================================================================================
+============================================================================================
 ## 🇺🇸 English Version
 This project is a Python-based automated trading system that combines
 Ichimoku Cloud, Squeeze Momentum, ADX, MACD, and RSI indicators
@@ -83,4 +83,4 @@ through the synergy of Ichimoku signals and Squeeze Momentum compression.
 With the built-in DRY_RUN mode, users can test live signals  
 without financial risk, making it ideal for algorithmic strategy validation.
 
-======================================================================================================================
+============================================================================================
