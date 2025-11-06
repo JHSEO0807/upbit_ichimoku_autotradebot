@@ -70,7 +70,7 @@ Built-in DRY_RUN mode for safe paper trading enable live mode with API keys for 
 | Language | Python 3.10+ | Core trading and data logic |
 | Data Source | Upbit Open API (`pyupbit`) | Real-time OHLCV and ticker data for KRW pairs |
 | Data Handling | pandas, numpy | Time-series processing, rolling calculations |
-| Indicators | Ichimoku, Squeeze Momentum, ADX, MACD, RSI, SMA** | Pure Python implementations |
+| Indicators | Ichimoku, Squeeze Momentum, ADX, MACD, RSI, SMA | Pure Python implementations |
 | Networking / API | requests | REST API calls for market info |
 | Execution Loop | time.sleep(15s) | Lightweight 5-minute candle monitor |
 | Simulation Mode | DRY_RUN (default) | Real-time paper trading without live orders |
